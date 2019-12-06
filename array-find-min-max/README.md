@@ -3,13 +3,13 @@ Find the minimum and maximum from an input array of hexadecimal numbers. Store t
 
 # Examples
 * ### Find min max
-![ex1](ex1.JPG) <br/>
+![ex1](ex1.PNG) <br/>
 
 * ### Find min max
-![ex2](ex2.JPG) <br/>
+![ex2](ex2.PNG) <br/>
 
 * ### Find min max
-![ex3](ex3.JPG) <br/>
+![ex3](ex3.PNG) <br/>
 
 * ### Single element in input array
-![ex4](ex4.JPG) <br/>
+![ex4](ex4.PNG) <br/>
