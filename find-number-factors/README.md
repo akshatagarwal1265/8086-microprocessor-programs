@@ -1,6 +1,9 @@
 # Question
 Find the factors of a given number.
 
+# Note
+'$' (ascii = 36) has been used to denote the end of the array.
+
 # Examples
 * ### Factors of 255 (or FFh)
 ![ex1](ex1.JPG) <br/>
