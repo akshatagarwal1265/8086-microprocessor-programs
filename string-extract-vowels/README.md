@@ -1,6 +1,9 @@
 # Question
 Extract vowels from a given string and store it in a separate array.
 
+# Note
+'$' has been used to denote the end of the string and the array.
+
 # Examples
 * ### Extract vowels
 ![ex1](ex1.JPG) <br/>
