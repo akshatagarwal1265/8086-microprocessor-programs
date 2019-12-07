@@ -1,6 +1,9 @@
 # Question
 Read a string from the user using interrupts. Use Ceaser's cypher to encrypt the given string. Encryption key (displacement) should be read from the user. Display both encrypted and decrypted string.
 
+# Note
+'$' has been used to denote the end of arrays and strings.
+
 # Examples
 * ### Invalid string
 ![ex1](ex1.JPG) <br/>
