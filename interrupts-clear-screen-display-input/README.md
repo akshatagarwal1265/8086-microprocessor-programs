@@ -1,15 +1,9 @@
 # Question
-Read a string from the user using interrupts. Use Ceaser's cypher to encrypt the given string. Encryption key (displacement) should be read from the user. Display both encrypted and decrypted string.
+Prompt the user for name, age, registration number from the keyboard and display it on the screen. Clear the entire screen before the display.
 
-# Examples
-* ### Invalid string
-![ex1](ex1.JPG) <br/>
+# Example
+### Prompt and get user input
+![ex1a](ex1a.JPG) <br/>
 
-* ### Example
-![ex2](ex2.JPG) <br/>
-
-* ### Example
-![ex3](ex3.JPG) <br/>
-
-* ### Example
-![ex4](ex4.JPG) <br/>
+### Clear screen and display info
+![ex1b](ex1b.JPG) <br/>
