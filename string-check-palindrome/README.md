@@ -20,5 +20,5 @@ Check if a given string is a palindrome or not.
 * ### Single alphabet
 ![ex5](ex5.JPG) <br/>
 
-* ### Empty strinng
+* ### Empty string
 ![ex6](ex6.JPG) <br/>
