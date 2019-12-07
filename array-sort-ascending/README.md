@@ -1,6 +1,9 @@
 # Question
 Sort the given number array in ascending order.
 
+# Note
+'$' (ascii = 24h) has been used to denote the end of the array.
+
 # Examples
 * ### Sort array
 ![ex1](ex1.PNG) <br/>
